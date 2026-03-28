@@ -60,10 +60,10 @@ PORT = int(os.environ.get("PORT", 5000))
 # ─────────────────────────────────────
 #  CREDENTIALS (set in Render env vars)
 # ─────────────────────────────────────
-ANGEL_API_KEY     = os.environ.get("ANGEL_API_KEY",     "")
-ANGEL_CLIENT_ID   = os.environ.get("ANGEL_CLIENT_ID",   "")
-ANGEL_PASSWORD    = os.environ.get("ANGEL_PASSWORD",    "")
-ANGEL_TOTP_SECRET = os.environ.get("ANGEL_TOTP_SECRET", "")
+ANGEL_API_KEY     = os.environ.get("L7PEuOPi",     "")
+ANGEL_CLIENT_ID   = os.environ.get("AABM442321",   "")
+ANGEL_PASSWORD    = os.environ.get("2020",    "")
+ANGEL_TOTP_SECRET = os.environ.get("MJWIEP5J7C4EU636AVIRE5MQIE", "")
 
 MT5_LOGIN         = os.environ.get("MT5_LOGIN",         "")
 MT5_PASSWORD      = os.environ.get("MT5_PASSWORD",      "")
