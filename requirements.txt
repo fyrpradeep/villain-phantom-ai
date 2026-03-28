@@ -3,5 +3,4 @@ flask-cors==4.0.1
 gunicorn==21.2.0
 yfinance==0.2.38
 requests==2.31.0
-smartapi-python==1.4.4
 pyotp==2.9.0
