@@ -4,3 +4,4 @@ gunicorn==21.2.0
 yfinance==0.2.38
 requests==2.31.0
 pyotp==2.9.0
+git+https://github.com/angel-one/smartapi-python.git
