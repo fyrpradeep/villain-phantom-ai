@@ -10,10 +10,10 @@ services:
         value: 3.11.0
       # Optional: Fill these in Render dashboard for live trading
       # - key: ANGEL_API_KEY
-      #   value: your_key_here
+      #   value: L7PEuOPi
       # - key: ANGEL_CLIENT_ID
-      #   value: your_client_id
+      #   value: AABM442321
       # - key: ANGEL_PASSWORD
-      #   value: your_password
+      #   value: 2020
       # - key: ANGEL_TOTP_SECRET
-      #   value: your_totp_secret
+      #   value: MJWIEP5J7C4EU636AVIRE5MQIE
